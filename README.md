@@ -1,1 +1,2 @@
-<img width="1250" height="533" alt="Frame 7" src="https://github.com/user-attachments/assets/7ce3f084-516c-4151-8836-b5552504ccc9" />
+<div align="center">
+An independent, open-source R&D collective focused on bridging the gap between advanced AI capabilities and intuitive developer experiences. We build things that make the experience of the community better, treating our projects with the production-grade rigor of an enterprise lab—purely for the love of the craft and the community.
