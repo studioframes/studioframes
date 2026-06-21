@@ -1,6 +1,5 @@
 <div align="center">
 We make open-source stuff.
-</div>
 
 Other projects we may open source:
 - Some weak AI model
